@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+.DS_Store
+venv/*
+/5-MarchingCubes/waves.ply
+/5-MarchingCubes/example.ply
+/5-MarchingCubes/cone.ply
