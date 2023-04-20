@@ -13,3 +13,13 @@ This was created in C++, inside multipass on an M1 mac.
 If there are bugs with multisampling, or performance, this is probably why
 The program lags a little. I think this is because it is
 running in a VM. Your milage may vary.
+
+<figure>
+<img src="../Images/Wave.gif" alt="Waves" style="width:100%">
+<figcaption align = "center"><b>Waves</b></figcaption>
+</figure>
+<br>
+<figure>
+<img src="../Images/WaveWireframe.gif" alt="Waves" style="width:100%">
+<figcaption align = "center"><b>Waves Wireframe</b></figcaption>
+</figure>
