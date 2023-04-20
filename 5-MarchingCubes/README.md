@@ -13,3 +13,9 @@ The program lags when closing. This is because it is saving the mesh to the ply 
 the writePLY function at the end of MarchingCubes.cpp
 
 Cull face is at the end of my init_opengl() function if you want to disable it.
+
+
+<figure>
+<img src="MarchingCubes.gif" alt="Marching Wave" style="width:100%">
+<figcaption align = "center"><b>Marching Wave</b></figcaption>
+</figure>
