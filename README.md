@@ -34,10 +34,13 @@ See each folder's README for details on each one
 <figcaption align = "center"><b>Marching Wave</b></figcaption>
 </figure>
 
-<figure>
-<img src="Images/MarchingCubes.gif" alt="Marching Cubes" style="width:100%">
-<figcaption align = "center"><b>Marching Cubes</b></figcaption>
-</figure>
+[//]: # (<figure>)
+
+[//]: # (<img src="Images/MarchingCubes.gif" alt="Marching Cubes" style="width:100%">)
+
+[//]: # (<figcaption align = "center"><b>Marching Cubes</b></figcaption>)
+
+[//]: # (</figure>)
 
 <figure>
 <img src="Images/Wave.gif" alt="Waves" style="width:100%">
