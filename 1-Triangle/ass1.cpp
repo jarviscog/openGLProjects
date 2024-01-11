@@ -29,7 +29,6 @@ int main(void)
 {
     GLFWwindow *window;
 
-    // Minimum target is OpenGL 4.1
     glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
     glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
     glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);

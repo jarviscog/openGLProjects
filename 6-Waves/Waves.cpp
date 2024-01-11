@@ -20,6 +20,7 @@ GLFWwindow* window;
 #include <glm/gtc/matrix_transform.hpp>
 using namespace glm;
 
+
 // Variables for camera
 float last_mouse_x_position = 0;
 float last_mouse_y_position = 0;
@@ -215,8 +216,11 @@ int main( int argc, char* argv[])
 //    glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
 
     do{
-
+        i = 1;
+        loop:
+        std::cout << (2 << 4 << 3) << endl;
         time += 0.04;
+        int8_t a = 200;
         // Clear the screen
         glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
